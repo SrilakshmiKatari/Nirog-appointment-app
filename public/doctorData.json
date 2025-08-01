@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Ayesha Sharma",
+    "specialization": "Dermatologist",
+    "image": "https://ui-avatars.com/api/?name=Ayesha+Sharma&background=0D8ABC&color=fff",
+    "availability": "Available Today",
+    "schedule": [
+      "2025-08-01T10:00",
+      "2025-08-01T14:00",
+      "2025-08-02T09:30"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Dr. Rohit Mehra",
+    "specialization": "Cardiologist",
+    "image": "https://ui-avatars.com/api/?name=Rohit+Mehra&background=0D8ABC&color=fff",
+    "availability": "Fully Booked",
+    "schedule": []
+  },
+  {
+    "id": 3,
+    "name": "Dr. Neha Verma",
+    "specialization": "Pediatrician",
+    "image": "https://ui-avatars.com/api/?name=Neha+Verma&background=0D8ABC&color=fff",
+    "availability": "Available Today",
+    "schedule": [
+      "2025-08-01T12:00",
+      "2025-08-03T15:00"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Dr. Vikram Patel",
+    "specialization": "Orthopedic",
+    "image": "https://ui-avatars.com/api/?name=Vikram+Patel&background=0D8ABC&color=fff",
+    "availability": "On Leave",
+    "schedule": []
+  }
+]
